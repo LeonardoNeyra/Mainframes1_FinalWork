@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530476852782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "156|37|217|2|\n218|37|279|4|\n282|35|303|4|\n304|38|325|2|\n326|36|352|2|\n",
+    "hash" : "2645207979",
+    "id" : "FA6A9802",
+    "lastKnownWriteTime" : 1530853296,
+    "last_content_update" : 1530861099145,
+    "path" : "H:/9 CICLO/ProyectoFinal/ShinyPF.R",
+    "project_path" : "ShinyPF.R",
+    "properties" : {
+        "cursorPosition" : "102,17",
+        "scrollLine" : "81",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 289,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 0,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 289,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "D:/Sandro/Upao/09 CICLO/MainFrames/Proyecto/ProyectoFinal/ScriptPF.R",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}

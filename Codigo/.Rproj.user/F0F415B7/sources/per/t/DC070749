@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530840673486.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "183|42|204|2|\n205|42|226|2|\n227|39|248|2|\n250|42|271|2|\n272|42|293|2|\n294|39|315|2|\n318|37|339|2|\n340|39|361|2|\n363|38|378|2|\n379|38|392|2|\n",
+    "hash" : "3198468971",
+    "id" : "DC070749",
+    "lastKnownWriteTime" : 1530862686,
+    "last_content_update" : 1530862686780,
+    "path" : "H:/9 CICLO/ProyectoFinal/ShinyDashboardPF.R",
+    "project_path" : "ShinyDashboardPF.R",
+    "properties" : {
+        "cursorPosition" : "52,65",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

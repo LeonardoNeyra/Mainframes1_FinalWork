@@ -1,0 +1,68 @@
+*----------*
+PIMER CICLO
+===========
+1. Introducción a la Programación
+2. Introducción a la Ing. de Sistemas Informáticos
+3. Lenguaje y Comunicación
+4. Matemática Básica
+
+*------------*
+SEGUNDO CICLO
+=============
+1. Autómatas y Compiladores
+2. Programación Orientada a Objetos
+3. Cálculo
+4. Matemática Discreta para Computadores
+
+*-----------*
+TERCER CICLO
+============
+1. Algebra Lineal y Geometría Descriptiva
+2. Fundamentos de Sistemas de Información
+3. Matemática III
+4. Fisica I
+
+*-----------*
+CUARTO CICLO
+============
+1. Arquitectura de Computadoras
+2. Estructuras de Datos e Información
+3. Organización y Gestión de Empresas
+4. Física Aplicada a la Computación
+
+*-----------*
+QUINTO CICLO
+============
+1. Interacción Hombre Máquina
+2. Estadística y Probabilidades
+3. Ingeniería de Software I
+4. Base de Datos
+
+*----------*
+SEXTO CICLO
+===========
+1. Desarrollo de Aplicaciones
+2. Modelado de Procesos de Negocio I
+3. Sistemas Operativos
+4. Sistemas de Gestión de Base de Datos
+5. Ingeniería de Software II
+
+*------------*
+SEPTIMO CICLO
+=============
+1. Arquitectura de Redes de Computadoras
+2. Sistemas de Información
+3. Modelado de Proceso de Negocios II
+4. Investigación de Operaciones
+5. Planeamiento Estratégico de TIC
+
+*-----------*
+OCTAVO CICLO
+============
+1. Administración de Redes y Seguridad de la Información
+2. Gerencia de TI
+3. Administración de Proyecto y Sistemas de Información
+4. Proyecto de Investigación
+5. Sistema de Soporte de Decisión
+
+TOTAL: 35 cursos
